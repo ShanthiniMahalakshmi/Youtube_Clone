@@ -1,0 +1,9 @@
+.recommendedVideos {
+  flex: 0.8;
+  margin-left: 15px;
+}
+
+.recommendedVideos > h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
